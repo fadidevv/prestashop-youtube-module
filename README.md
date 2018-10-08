@@ -1,6 +1,6 @@
 # Prestashop YouTube module
 
-[![N|Solid](http://oi68.tinypic.com/148zvx3.jpg)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSIkjQLstqkw7r16vuDMYi6NAPtBIwkKzGEYBl33nqCnT7tXvbeQ)](https://nodesource.com/products/nsolid)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/fadidevv/prestashop-youtube-module)
 
